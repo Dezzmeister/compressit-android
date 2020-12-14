@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/zip_files"
+        android:icon="@drawable/ic_baseline_send_32"
+        android:title="@string/zip_menu_zip_files_title"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/send_files"
+        android:title="@string/zip_menu_send_files_title"
+        app:showAsAction="never">
+    </item>
+</menu>

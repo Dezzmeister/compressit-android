@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompressIt</string>
+    <string name="app_id">ca-app-pub-1564378525627449~8523022192</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="PRODUCTION_AD_UNIT_ID">ca-app-pub-1564378525627449/7228101218</string>
+    <string name="zip_menu_zip_files_title">Compress Files</string>
+    <string name="zip_menu_send_files_title">Share Files</string>
+</resources>
